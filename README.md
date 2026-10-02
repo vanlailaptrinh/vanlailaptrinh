@@ -5,7 +5,7 @@
   <a href="mailto:tranquocvan.devops@gmail.com">
     <img src="https://img.shields.io/badge/Email-tranquocvan.devops%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/vantrandevops" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
