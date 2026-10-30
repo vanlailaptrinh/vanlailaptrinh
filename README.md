@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Van Tran (Trần Quốc Văn)</h1>
+<h1 align="center">Hi 👋, I'm Tran Quoc Van</h1>
 <h3 align="center">DevOps Engineer | Infrastructure & Automation</h3>
 
 <p align="center">
@@ -53,7 +53,7 @@ A proactive **DevOps Engineer** with hands-on experience in operating on-premise
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server HA/DR" alt="SQL Server"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" title="MongoDB" alt="MongoDB"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="45" title="Cloudflare" alt="Cloudflare"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" title="AWS" alt="AWS"/>
 </p>
 
 ### Programming & Backend/AI
@@ -65,6 +65,10 @@ A proactive **DevOps Engineer** with hands-on experience in operating on-premise
 </p>
 
 ---
+### Production Links
+
+- [LeafGuard AI — Google Play](https://play.google.com/store/apps/details?id=com.anonymous.scientific_research)
+- [XCORP](https://xcorp.app/)
 
 ### Highlighted Projects
 
